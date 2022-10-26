@@ -1,0 +1,205 @@
+body{
+    max-width: 2011px;
+    font-family: "Roboto", "Arial", sans-serif;
+    margin: 0 auto;
+}
+
+header{
+    height: 84px;
+    background-color: #007765;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.logo1{
+    height: 45px;
+    width: 184px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding-left: 500px;
+}
+li{
+    margin-right: 8px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+}
+
+.slash{
+    height: 29px;
+    width: 3px;
+}
+
+.photo1{
+    height: 403px;
+    width: 2011px;   
+}
+
+.text{
+    margin:  auto;
+    width: 1010px;
+    padding-bottom: 92px;
+    padding-top: 160px;
+}
+
+h1{
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    margin-top: 48px;
+    margin-bottom: 16px;
+    line-height: 75px;
+
+}
+
+h2{
+    text-align: center;
+    color: #007765;
+    font-size: 24px;   
+    line-height: 28,13px;
+    font-weight: 700px;
+    margin: 0;
+
+}
+
+p{
+    font-size: 32px;
+    line-height: 37.5px;
+    color: #000000;
+    margin:0;
+}
+
+
+img.background__img{
+    min-height: 483px;
+  min-width: 2011px;
+  position: absolute;
+ 
+  
+  
+ 
+}
+
+.text2{
+    margin: auto;
+    width: 893px;
+    height: 228px;
+    position: relative;
+    padding:  128px 0 128px 0;
+   
+    
+}
+
+.text2 > p{
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56.25px;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+           
+}
+.inner2{
+    margin-bottom: 40px;
+}
+
+
+.inner3{
+margin: 16px auto;
+width: 1110px;
+min-height: 110px;
+
+}
+.label{
+   display: inline-flex;
+   text-align: center;
+  
+   
+
+}
+.logo2{
+    height: 115px;
+    width: 115px;
+    align-items: center;
+   
+
+}
+
+.text__label{
+    width: 930px;
+    margin-left: 48px;
+    
+}
+
+.team{
+    background-color: #eeeeee;
+    width: 2011px;
+    height: 845px;
+}
+.team > p{
+    padding-top: 58px;
+}
+
+.team__photo{
+    height: 350px;
+    width: 283px;
+    text-align: center;
+}
+
+figcaption > p{
+text-align: center;
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+}
+
+.dream__team{
+    margin: auto;
+    display: grid;
+  width: 1110px;
+   grid-template-columns: 350px 350px 350px; 
+  align-items: start;
+  justify-content: space-between;
+}
+
+footer{
+    width: 2011px;
+    height: 176px;
+    background-color: #333333;
+    text-align: center;
+}
+
+footer > p{
+    color: #fff;
+    font-size: 18px;
+    line-height: 21.09px;
+    width: 540px;
+    margin: auto;
+    padding-top: 44px;
+}
+
+.about > p{
+color: #fff;
+text-align: center;
+font-size: 72px;
+line-height: 84.38px;
+position:  relative;;
+padding-top: 160px;
+}
+
+.photo1{
+    position: absolute;
+}
